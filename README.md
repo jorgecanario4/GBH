@@ -12,4 +12,4 @@ To Run this test:
 
 To start the test run:
 -cd <to the path were the test is located>
--py.test -v GBHtest.py
+-py.test -v <Name of the test you want to run>.py
