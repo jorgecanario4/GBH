@@ -9,3 +9,7 @@ To Run this test:
 -Move geckodriver to system path (/usr/local/bin)
 -Download selenium using (pip command)
 -Download pytest using (pip command)
+
+To start the test run:
+-cd <to the path were the test is located>
+-py.test -v GBHtest.py
