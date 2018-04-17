@@ -1,7 +1,7 @@
 # GBH
 Testing GBH Main menu
 
-To Run this test
+To Run this test:
 -Ensure you have mozilla Firefox installed
 -Ensure to have the latest Python version installed
 -Download Pip package management system
